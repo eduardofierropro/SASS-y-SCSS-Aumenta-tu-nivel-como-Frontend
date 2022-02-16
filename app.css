@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* Anidación (Nesting) - ¿Cómo anidar en Scss? */
+/* Ejemplo sin Anidación */
+header {
+  color: black;
+}
+
+header h1 {
+  color: red;
+}
+
+header nav {
+  display: flex;
+}
+
+/* Ejemplo con anidación */
+header {
+  color: black;
+}
+header h1 {
+  color: red;
+}
+header nav {
+  display: flex;
+}
+
+/*
+    ¿Qué significa & en SCSS?
+    👉 Añade el selector "padre" cuando anidamos
+*/
+/* Ejemplo sin Selector & ni Anidación */
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: aqua;
+}
+
+a:visited {
+  color: pink;
+}
+
+/* Ejemplo con Selector & y Anidación */
+a {
+  color: black;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: aqua;
+}
+a:visited {
+  color: pink;
+}
+
+/* 
+    ¿Qué nombre pongo en una clase CSS?
+    👉 En principio puedes poner cualquier nombre peeeero mejor si seguimos unas reglas o una metodología
+
+    ¿Qué metodologia CSS usar?
+    👉 Existen muchas: BEM CSS, SUIT CSS, CUBE CSS
+
+    ¿Qué significa BEM CSS?
+    👉 Es una metodología que define un bloque, elemento y modificador
+
+    ¿Qué es BEM en Sass?
+    👉 Pues adaptamos los selectores de BEM gracias a la anidación y el selector &
+
+    ¡¡Dame un truco para usar BEM en SASS!!
+    👉 Descarga BEM Helper para VSCode
+
+*/
+/* Ejemplo de BEM sin Anidar */
+.header {
+  color: black;
+}
+
+.header__h1 {
+  color: pink;
+}
+
+.header__nav {
+  color: red;
+}
+
+/* Ejemplo de BEM con Anidación y Selector & */
+.footer {
+  color: black;
+}
+.footer__h1 {
+  color: pink;
+}
+.footer__nav {
+  color: red;
+}
