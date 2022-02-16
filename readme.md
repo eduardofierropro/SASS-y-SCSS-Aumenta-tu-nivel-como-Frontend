@@ -1,10 +1,11 @@
+<div>
+<iframe src='https://www.youtube.com/embed/eoAwVWeQf6U'></iframe>
+</div>
+
 # SASS: Mixins, variables, Nesting Flex, Grid y Media Queries
 
 Este es el repositorio de código sobre loa serie de vídeos hablando sobre SASS y SCSS.: [https://youtube.com/playlist?list=PLJpymL0goBgFAUYDei7CoJCiHjcmgioUt](https://youtube.com/playlist?list=PLJpymL0goBgFAUYDei7CoJCiHjcmgioUt).
 
-<div>
-<iframe src='https://www.youtube.com/embed/eoAwVWeQf6U'></iframe>
-</div>
 
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
