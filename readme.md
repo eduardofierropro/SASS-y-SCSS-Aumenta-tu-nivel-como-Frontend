@@ -122,7 +122,7 @@ h1{
 |Cómo aplicar BEM en HTML y CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20video&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/NucZM0GMRi4)|
 |Cómo aplicar SUITCSS en HTML y CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20video&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/Vdmof9VSiEo)| -->
 
- -->
+ 
 ## 💻 Otros repositorios y vídeos relacionados
 
 En estos repositorios tendrás acceso a todas las versiones de cada módulo creadas con diferentes tecnologías como HTML, SCSS, TS, Angular, ReactJS...
