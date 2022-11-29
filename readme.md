@@ -6,7 +6,7 @@ Este es el repositorio de código sobre la serie de vídeos hablando sobre SASS 
 
 * Variables 
 * Mixins 
-* Mixins MUY ÚTILES 
+* Mixins como Neomorfismo, Flex o Media
 * Crea tu propio Mixin 
 * Anidación y Selector & 
 
